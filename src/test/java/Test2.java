@@ -6,12 +6,12 @@ public class Test2 {
     @Test
     @Tag("Group1")
     public void test1(){
-        System.out.println("Test 3");
+        System.out.println("Test 3 DEVELOP");
     }
 
     @Test
     @Tag("Group2")
     public void test2(){
-        System.out.println("Test 4");
+        System.out.println("Test 4 DEVELOP");
     }
 }
